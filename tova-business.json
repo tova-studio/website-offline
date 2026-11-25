@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:31:41.573Z",
+  "slug": "gwcleaningservices",
+  "name": "Website Offline",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Cleaning services",
+    "niche": "cleaning services",
+    "group": "Other services"
+  },
+  "contact": {
+    "phone": "+6421611450",
+    "email": "gwcontractingltd@gmail.com",
+    "address": "9a Sequoia Pl, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/1433444550301303"
+  },
+  "about": {
+    "tagline": "Offline"
+  },
+  "before": {
+    "url": "http://www.gwcleaningservices.co.nz/",
+    "domain": "gwcleaningservices.co.nz",
+    "finalUrl": "http://www.gwcleaningservices.co.nz/",
+    "pages": 4,
+    "score": 66,
+    "assessedAt": "2026-11-22T13:13:16.161Z",
+    "issues": [
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.gwcleaningservices.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "broken-links",
+        "title": "Broken links",
+        "evidence": "1 of 3 checked links fail, e.g. http://www.gwcleaningservices.co.nz/page/446095."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "No <title> found, hurting Google search appearance."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/website-offline/",
+    "repoUrl": "https://github.com/tova-studio/website-offline",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:31:41.573Z"
+  }
+}
